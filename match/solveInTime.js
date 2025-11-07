@@ -1,4 +1,4 @@
-// this script lets you solve the match AND APPEAR ON THE LEADERBOARD
+win every game// this script lets you solve the match AND APPEAR ON THE LEADERBOARD
 // in a time that YOU get to select (it could even be 2 seconds)
 
 (() => {
